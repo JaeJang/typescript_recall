@@ -1,0 +1,24 @@
+{
+  "name": "typescript_recall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaeJang/typescript_recall.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaeJang/typescript_recall/issues"
+  },
+  "homepage": "https://github.com/JaeJang/typescript_recall#readme",
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
